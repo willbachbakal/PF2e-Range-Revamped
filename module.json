@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "range-revamped",
+  "title": "Range Revamped",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "A series of modular adjustments and additions to ranged combat in Pathfinder Second Editions, including a rework to the Gunslinger class.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "range-revamped",
+      "label": "Range Revamped",
+      "path": "packs/range-revamped",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/S6brLKFBjYty"
 }
