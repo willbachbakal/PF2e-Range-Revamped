@@ -12,37 +12,37 @@
     "": {
       "pf2e-homebrew": {
         "actionTraits": {
-          "Taxing": {
+          "taxing": {
             "label": "Taxing",
             "description": "A taxing ability demands great effort, but often allows you to make mighty attacks, or make several attacks smoothly. A taxing action counts as two attacks when calculating your multiple attack penalty unless it includes more attacks, but you only increase your multiple attack penalty after the action ends. If a taxing action includes one or more other taxing actions, you only increase your multiple attack penalty after the entire action ends."
           }
         },
         "featTraits": {
-          "Capacity": {
+          "capacity": {
             "label": "Capacity",
             "description": "This weapon has multiple barrels or other mechanisms that allow it to fire several times before reloading. The capacity trait always includes a value. You can fire the weapon a number of times equal to this value before needing to reload. When you Interact to reload a capacity weapon, you reload all of its barrels or mechanisms, allowing you to fire it multiple times without reloading once more."
           },
-          "Evasive": {
+          "evasive": {
             "label": "Evasive",
             "description": "Evasive abilities are so sudden that they do not trigger reactions. Some abilities can be evasive to one or more creatures and not others, in which case they are evasive to those creatures."
           },
-          "Kickback": {
+          "kickback": {
             "label": "Kickback",
             "description": "This weapon’s stopping power is difficult to stabilize. Your ranged Strikes with this weapon deal additional damage equal to its number of damage dice (including the additional damage dice dealt on a critical hit), but you also gain a circumstance penalty to your ranged attack rolls with the weapon equal to its number of damage dice. You negate this penalty if your Strength modifier is equal to or greater than the weapon’s number of damage dice, or if you attach the weapon to a deployed bipod, tripod, or other stabilizer appropriate for it."
           },
-          "Overwhelming": {
+          "overwhelming": {
             "label": "Overwhelming",
             "description": "This cumbersome weapon can induce severe additional effects on a hit. You can use Critical Opening with the weapon as a single action, and can use Critical Opening whenever you would make a ranged Strike with the weapon."
           },
-          "Precise": {
+          "precise": {
             "label": "Precise",
             "description": "This weapon is particularly well-suited for making aimed attacks, though its recoil often limits its ability to perform quick follow-ups. You can use Aimed Shot with the weapon as a single action, and can use Aimed Shot whenever you would make a ranged Strike with the weapon."
           },
-          "Salvo": {
+          "salvo": {
             "label": "Salvo",
             "description": "A salvo ability involves multiple attacks made against a single target in quick succession. When using a salvo ability, combine the damage of every hit against the same target for the purpose of resistances and weaknesses."
           },
-          "Taxing": {
+          "taxing": {
             "label": "Taxing",
             "description": "A taxing ability demands great effort, but often allows you to make mighty attacks, or make several attacks smoothly. A taxing action counts as two attacks when calculating your multiple attack penalty unless it includes more attacks, but you only increase your multiple attack penalty after the action ends. If a taxing action includes one or more other taxing actions, you only increase your multiple attack penalty after the entire action ends."
           }
