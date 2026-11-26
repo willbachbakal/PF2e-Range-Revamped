@@ -9,7 +9,7 @@
     "maximum": "14"
   },
   "flags": {
-    "": {
+    "range-revamped": {
       "pf2e-homebrew": {
         "actionTraits": {
           "taxing": {
